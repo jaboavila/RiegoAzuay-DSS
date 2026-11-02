@@ -1,0 +1,25 @@
+RIEGOAZUAY DSS v1.0.0 — RELEASE PÚBLICO
+
+ESTADO
+- Esta es la versión pública v1.0.0 del software.
+- El código original se distribuye bajo licencia MIT.
+- El registro institucional restringido de 159 sistemas no se incluye.
+- El DOI se incorporará mediante el registro archivístico de la release; no se inventa dentro de este ZIP.
+
+EJECUCIÓN
+1. Extraiga el ZIP en una carpeta nueva.
+2. Abra RiegoAzuay-DSS.Rproj.
+3. Si faltan paquetes, ejecute una sola vez: source("00_install_packages.R", encoding = "UTF-8")
+4. Para verificar el paquete, ejecute: source("VERIFY_PUBLIC_PACKAGE.R", encoding = "UTF-8")
+5. Para abrir la aplicación, ejecute: source("04_run_app.R", encoding = "UTF-8")
+
+LÍMITE DE DATOS
+El paquete público usa cinco registros territoriales sintéticos y conteos agregados. No
+contiene el selector procesado de 159 sistemas, auditorías territoriales fila por fila,
+coordenadas institucionales exactas ni registros institucionales crudos.
+
+LICENCIA
+Consulte LICENSE y DATA_AND_THIRD_PARTY_MATERIALS.md.
+
+NO EJECUTE PREPARAR_CANDIDATA_RC6.R: se conserva únicamente como rastro histórico de la
+fase de candidata y no es el flujo de uso de v1.0.0.

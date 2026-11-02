@@ -1,0 +1,7 @@
+RiegoAzuay DSS — public software release
+Software version: 1.0.0
+Release tag: RiegoAzuay-DSS-v1.0.0
+The original RiegoAzuay DSS code, tests, non-confidential configurations, synthetic fixtures, and original documentation are licensed under the MIT License.
+The restricted Provincial Government of Azuay selector, record-level territorial audits, exact institutional intake coordinates, and raw institutional records are intentionally absent.
+The application starts with a five-record synthetic demonstration registry and retains aggregate selector counts.
+No DOI is embedded in this archive at build time; use the version-specific repository and archival metadata after deposit.
