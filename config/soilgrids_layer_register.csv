@@ -1,0 +1,55 @@
+﻿property_role,property_code,property_alias,depth_interval,statistic,raw_unit,conversion_to_fraction,required
+field_capacity,wv003,wv0033,0-5cm,Q05,1e-3 cm3/cm3,0.001,true
+field_capacity,wv003,wv0033,0-5cm,Q50,1e-3 cm3/cm3,0.001,true
+field_capacity,wv003,wv0033,0-5cm,Q95,1e-3 cm3/cm3,0.001,true
+field_capacity,wv003,wv0033,5-15cm,Q05,1e-3 cm3/cm3,0.001,true
+field_capacity,wv003,wv0033,5-15cm,Q50,1e-3 cm3/cm3,0.001,true
+field_capacity,wv003,wv0033,5-15cm,Q95,1e-3 cm3/cm3,0.001,true
+field_capacity,wv003,wv0033,15-30cm,Q05,1e-3 cm3/cm3,0.001,true
+field_capacity,wv003,wv0033,15-30cm,Q50,1e-3 cm3/cm3,0.001,true
+field_capacity,wv003,wv0033,15-30cm,Q95,1e-3 cm3/cm3,0.001,true
+field_capacity,wv003,wv0033,30-60cm,Q05,1e-3 cm3/cm3,0.001,true
+field_capacity,wv003,wv0033,30-60cm,Q50,1e-3 cm3/cm3,0.001,true
+field_capacity,wv003,wv0033,30-60cm,Q95,1e-3 cm3/cm3,0.001,true
+field_capacity,wv003,wv0033,60-100cm,Q05,1e-3 cm3/cm3,0.001,true
+field_capacity,wv003,wv0033,60-100cm,Q50,1e-3 cm3/cm3,0.001,true
+field_capacity,wv003,wv0033,60-100cm,Q95,1e-3 cm3/cm3,0.001,true
+field_capacity,wv003,wv0033,100-200cm,Q05,1e-3 cm3/cm3,0.001,true
+field_capacity,wv003,wv0033,100-200cm,Q50,1e-3 cm3/cm3,0.001,true
+field_capacity,wv003,wv0033,100-200cm,Q95,1e-3 cm3/cm3,0.001,true
+wilting_point,wv1500,,0-5cm,Q05,1e-3 cm3/cm3,0.001,true
+wilting_point,wv1500,,0-5cm,Q50,1e-3 cm3/cm3,0.001,true
+wilting_point,wv1500,,0-5cm,Q95,1e-3 cm3/cm3,0.001,true
+wilting_point,wv1500,,5-15cm,Q05,1e-3 cm3/cm3,0.001,true
+wilting_point,wv1500,,5-15cm,Q50,1e-3 cm3/cm3,0.001,true
+wilting_point,wv1500,,5-15cm,Q95,1e-3 cm3/cm3,0.001,true
+wilting_point,wv1500,,15-30cm,Q05,1e-3 cm3/cm3,0.001,true
+wilting_point,wv1500,,15-30cm,Q50,1e-3 cm3/cm3,0.001,true
+wilting_point,wv1500,,15-30cm,Q95,1e-3 cm3/cm3,0.001,true
+wilting_point,wv1500,,30-60cm,Q05,1e-3 cm3/cm3,0.001,true
+wilting_point,wv1500,,30-60cm,Q50,1e-3 cm3/cm3,0.001,true
+wilting_point,wv1500,,30-60cm,Q95,1e-3 cm3/cm3,0.001,true
+wilting_point,wv1500,,60-100cm,Q05,1e-3 cm3/cm3,0.001,true
+wilting_point,wv1500,,60-100cm,Q50,1e-3 cm3/cm3,0.001,true
+wilting_point,wv1500,,60-100cm,Q95,1e-3 cm3/cm3,0.001,true
+wilting_point,wv1500,,100-200cm,Q05,1e-3 cm3/cm3,0.001,true
+wilting_point,wv1500,,100-200cm,Q50,1e-3 cm3/cm3,0.001,true
+wilting_point,wv1500,,100-200cm,Q95,1e-3 cm3/cm3,0.001,true
+texture,clay,,0-5cm,mean,g/kg,0.001,false
+texture,sand,,0-5cm,mean,g/kg,0.001,false
+texture,silt,,0-5cm,mean,g/kg,0.001,false
+texture,clay,,5-15cm,mean,g/kg,0.001,false
+texture,sand,,5-15cm,mean,g/kg,0.001,false
+texture,silt,,5-15cm,mean,g/kg,0.001,false
+texture,clay,,15-30cm,mean,g/kg,0.001,false
+texture,sand,,15-30cm,mean,g/kg,0.001,false
+texture,silt,,15-30cm,mean,g/kg,0.001,false
+texture,clay,,30-60cm,mean,g/kg,0.001,false
+texture,sand,,30-60cm,mean,g/kg,0.001,false
+texture,silt,,30-60cm,mean,g/kg,0.001,false
+texture,clay,,60-100cm,mean,g/kg,0.001,false
+texture,sand,,60-100cm,mean,g/kg,0.001,false
+texture,silt,,60-100cm,mean,g/kg,0.001,false
+texture,clay,,100-200cm,mean,g/kg,0.001,false
+texture,sand,,100-200cm,mean,g/kg,0.001,false
+texture,silt,,100-200cm,mean,g/kg,0.001,false

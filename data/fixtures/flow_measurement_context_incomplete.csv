@@ -1,0 +1,2 @@
+method_id,capture_complete,container_calibrated,measurement_location_known,measurement_location,measurement_date,responsible,container_id,no_diversions,stable_flow,safe_measurement,notes
+volumetric_container,TRUE,FALSE,TRUE,Parcel inlet,2026-10-25,Demo technician,,TRUE,TRUE,TRUE,Incomplete context fixture

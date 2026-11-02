@@ -1,0 +1,9 @@
+﻿metric,value,public_interpretation
+raw_records,267,Records in the institutional source inventory.
+non_missing_coordinate_pairs,168,Records with non-missing latitude-longitude pairs.
+invalid_coordinate_pairs,1,Coordinate pair excluded as geographically implausible for Azuay.
+valid_georeferenced_records,167,Records with geographically valid coordinates.
+valid_coordinate_records_missing_system_name,8,Coordinate-valid records excluded from the named selector because the irrigation-system name was blank.
+selectable_named_records,159,"Named, coordinate-valid records eligible for the restricted selector."
+duplicate_normalised_system_name_records,2,Two selectable records share the same normalised system name and are distinguished by application ID and location.
+combined_parish_source_labels,1,One source parish label mentions more than one locality while the record contains one intake coordinate.

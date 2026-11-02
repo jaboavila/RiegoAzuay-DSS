@@ -1,0 +1,14 @@
+{
+  "raw_records": 267,
+  "non_missing_coordinate_pairs": 168,
+  "invalid_coordinate_pairs": 1,
+  "valid_georeferenced_records": 167,
+  "valid_coordinate_records_missing_system_name": 8,
+  "selectable_named_records": 159,
+  "id_range": [
+    "AZU-SR-001",
+    "AZU-SR-159"
+  ],
+  "id_assignment_rule": "ascending raw institutional source_row after valid-coordinate and nonblank system-name filters",
+  "coordinate_semantics": "registered water-intake location, not command-area centroid or boundary"
+}

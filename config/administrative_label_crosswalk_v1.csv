@@ -1,0 +1,103 @@
+level,source_value,display_value,rule_type,note
+canton,Chordeleg,Chordeleg,unchanged,Source label retained for display.
+canton,Chordelg,Chordeleg,source_variant_consolidation,Obvious source spelling/orthographic variant consolidated for display; the source value remains preserved.
+canton,Cuenca,Cuenca,unchanged,Source label retained for display.
+canton,Deleg,Déleg,source_variant_consolidation,Obvious source spelling/orthographic variant consolidated for display; the source value remains preserved.
+canton,Giron,Girón,source_variant_consolidation,Obvious source spelling/orthographic variant consolidated for display; the source value remains preserved.
+canton,Girón,Girón,unchanged,Source label retained for display.
+canton,Gualaceo,Gualaceo,unchanged,Source label retained for display.
+canton,Gualceo,Gualaceo,source_variant_consolidation,Obvious source spelling/orthographic variant consolidated for display; the source value remains preserved.
+canton,Nabon,Nabón,source_variant_consolidation,Obvious source spelling/orthographic variant consolidated for display; the source value remains preserved.
+canton,Nabón,Nabón,unchanged,Source label retained for display.
+canton,Oña,Oña,unchanged,Source label retained for display.
+canton,Paute,Paute,unchanged,Source label retained for display.
+canton,Pucara,Pucará,source_variant_consolidation,Obvious source spelling/orthographic variant consolidated for display; the source value remains preserved.
+canton,Pucará,Pucará,unchanged,Source label retained for display.
+canton,Pucará (06),Pucará,code_suffix_removed,A source code suffix was removed from the display label; the source value remains preserved.
+canton,Pucará 06,Pucará,code_suffix_removed,A source code suffix was removed from the display label; the source value remains preserved.
+canton,San Fernand,San Fernando,source_variant_consolidation,Obvious source spelling/orthographic variant consolidated for display; the source value remains preserved.
+canton,San Fernando,San Fernando,unchanged,Source label retained for display.
+canton,Santa Isabel,Santa Isabel,unchanged,Source label retained for display.
+canton,Santa Isabel 08,Santa Isabel,code_suffix_removed,A source code suffix was removed from the display label; the source value remains preserved.
+canton,Sta Isabel,Santa Isabel,source_variant_consolidation,Obvious source spelling/orthographic variant consolidated for display; the source value remains preserved.
+canton,Sevilla de Oro,Sevilla de Oro,unchanged,Source label retained for display.
+canton,Sevilla del Oro,Sevilla de Oro,source_variant_consolidation,Obvious source spelling/orthographic variant consolidated for display; the source value remains preserved.
+canton,SIGSIG,Sígsig,source_variant_consolidation,Obvious source spelling/orthographic variant consolidated for display; the source value remains preserved.
+canton,Sigsig,Sígsig,source_variant_consolidation,Obvious source spelling/orthographic variant consolidated for display; the source value remains preserved.
+canton,Sígsig,Sígsig,unchanged,Source label retained for display.
+parish,Abdon Calderón,Abdón Calderón,source_variant_consolidation,Obvious source spelling/orthographic variant consolidated for display; the source value remains preserved.
+parish,Abdón Calderón,Abdón Calderón,unchanged,Source label retained for display.
+parish,AMALUZA,Amaluza,case_punctuation_harmonization,"Capitalisation, spacing, punctuation, or diacritics harmonised for the filter display."
+parish,Asuncion,Asunción,source_variant_consolidation,Obvious source spelling/orthographic variant consolidated for display; the source value remains preserved.
+parish,Bulan,Bulán,source_variant_consolidation,Obvious source spelling/orthographic variant consolidated for display; the source value remains preserved.
+parish,Cañaribamba,Cañaribamba,unchanged,Source label retained for display.
+parish,Chaucha,Chaucha,unchanged,Source label retained for display.
+parish,Chaullabamba,Chaullabamba,unchanged,Source label retained for display.
+parish,Checa,Checa,unchanged,Source label retained for display.
+parish,Chiquintad,Chiquintad,unchanged,Source label retained for display.
+parish,Chumblim,Chumblín,source_variant_consolidation,Obvious source spelling/orthographic variant consolidated for display; the source value remains preserved.
+parish,Chumblin,Chumblín,source_variant_consolidation,Obvious source spelling/orthographic variant consolidated for display; the source value remains preserved.
+parish,Cochapata,Cochapata,unchanged,Source label retained for display.
+parish,Cuchil,Cuchil,unchanged,Source label retained for display.
+parish,Cutchil,Cuchil,source_variant_consolidation,Obvious source spelling/orthographic variant consolidated for display; the source value remains preserved.
+parish,Cumbe,Cumbe,unchanged,Source label retained for display.
+parish,Daniel Cordova Toral,Daniel Córdova Toral,source_variant_consolidation,Obvious source spelling/orthographic variant consolidated for display; the source value remains preserved.
+parish,Daniel Córdova Toral,Daniel Córdova Toral,unchanged,Source label retained for display.
+parish,Delegsol,Delegsol,unchanged,Source label retained for display.
+parish,Demo parish A,Demo parish A,unchanged,Source label retained for display.
+parish,Demo parish B,Demo parish B,unchanged,Source label retained for display.
+parish,Demo parish C,Demo parish C,unchanged,Source label retained for display.
+parish,Demo parish D,Demo parish D,unchanged,Source label retained for display.
+parish,Demo parish E,Demo parish E,unchanged,Source label retained for display.
+parish,Dug Dug,Dug Dug,unchanged,Source label retained for display.
+parish,Dug dug,Dug Dug,case_punctuation_harmonization,"Capitalisation, spacing, punctuation, or diacritics harmonised for the filter display."
+parish,Deleg,Déleg,source_variant_consolidation,Obvious source spelling/orthographic variant consolidated for display; the source value remains preserved.
+parish,El Progreso,El Progreso,unchanged,Source label retained for display.
+parish,El progreso,El Progreso,case_punctuation_harmonization,"Capitalisation, spacing, punctuation, or diacritics harmonised for the filter display."
+parish,Giron,Girón,source_variant_consolidation,Obvious source spelling/orthographic variant consolidated for display; the source value remains preserved.
+parish,Girón,Girón,unchanged,Source label retained for display.
+parish,Guaraignag,Guaraignag,unchanged,Source label retained for display.
+parish,Jadan,Jadán,source_variant_consolidation,Obvious source spelling/orthographic variant consolidated for display; the source value remains preserved.
+parish,Jima,Jima,unchanged,Source label retained for display.
+parish,La Paz,La Paz,unchanged,Source label retained for display.
+parish,La Unión,La Unión,unchanged,Source label retained for display.
+parish,Las Nieves,Las Nieves,unchanged,Source label retained for display.
+parish,Las.Nieves,Las Nieves,case_punctuation_harmonization,"Capitalisation, spacing, punctuation, or diacritics harmonised for the filter display."
+parish,Ludo,Ludo,unchanged,Source label retained for display.
+parish,Luis Cordero Vega,Luis Cordero Vega,unchanged,Source label retained for display.
+parish,Luis cordero vega,Luis Cordero Vega,case_punctuation_harmonization,"Capitalisation, spacing, punctuation, or diacritics harmonised for the filter display."
+parish,Mariano Moreno,Mariano Moreno,unchanged,Source label retained for display.
+parish,Nulti,Nulti,unchanged,Source label retained for display.
+parish,Octavio Cordero,Octavio Cordero,unchanged,Source label retained for display.
+parish,Palmas,Palmas,unchanged,Source label retained for display.
+parish,Paute,Paute,unchanged,Source label retained for display.
+parish,Principal,Principal,unchanged,Source label retained for display.
+parish,Pucara,Pucará,source_variant_consolidation,Obvious source spelling/orthographic variant consolidated for display; the source value remains preserved.
+parish,Pucará,Pucará,unchanged,Source label retained for display.
+parish,Pucará (50),Pucará,code_suffix_removed,A source code suffix was removed from the display label; the source value remains preserved.
+parish,Quingeo,Quingeo,unchanged,Source label retained for display.
+parish,Quinjeo,Quingeo,source_variant_consolidation,Obvious source spelling/orthographic variant consolidated for display; the source value remains preserved.
+parish,Remigio Crespo,Remigio Crespo Toral,source_variant_consolidation,Obvious source spelling/orthographic variant consolidated for display; the source value remains preserved.
+parish,Remigio Crespo Toral,Remigio Crespo Toral,unchanged,Source label retained for display.
+parish,San Bartolome,San Bartolomé,source_variant_consolidation,Obvious source spelling/orthographic variant consolidated for display; the source value remains preserved.
+parish,San Bartolomé,San Bartolomé,unchanged,Source label retained for display.
+parish,San Boftolome,San Bartolomé,source_variant_consolidation,Obvious source spelling/orthographic variant consolidated for display; the source value remains preserved.
+parish,San Gerardo,San Gerardo,unchanged,Source label retained for display.
+parish,San José De RARANGA,San José de Raranga,case_punctuation_harmonization,"Capitalisation, spacing, punctuation, or diacritics harmonised for the filter display."
+parish,San José Raranga,San José de Raranga,source_variant_consolidation,Obvious source spelling/orthographic variant consolidated for display; the source value remains preserved.
+parish,San José de Raranga,San José de Raranga,unchanged,Source label retained for display.
+parish,San José de raranga,San José de Raranga,case_punctuation_harmonization,"Capitalisation, spacing, punctuation, or diacritics harmonised for the filter display."
+parish,San Juan,San Juan,unchanged,Source label retained for display.
+parish,San Juan del Sid,San Juan del Sid,unchanged,Source label retained for display.
+parish,San Martin de Puzhio,San Martín de Puzhio,source_variant_consolidation,Obvious source spelling/orthographic variant consolidated for display; the source value remains preserved.
+parish,San Rafael de Sharug 52 y Pucará 50,San Rafael de Sharug 52 y Pucará 50,unchanged,Source label retained for display.
+parish,Santa Isabel 50,Santa Isabel,code_suffix_removed,A source code suffix was removed from the display label; the source value remains preserved.
+parish,Sayausi,Sayausí,source_variant_consolidation,Obvious source spelling/orthographic variant consolidated for display; the source value remains preserved.
+parish,Shagli,Shaglli,source_variant_consolidation,Obvious source spelling/orthographic variant consolidated for display; the source value remains preserved.
+parish,Shaglli,Shaglli,unchanged,Source label retained for display.
+parish,Sucedel,Sucedel,unchanged,Source label retained for display.
+parish,Tomebamba,Tomebamba,unchanged,Source label retained for display.
+parish,Victoria del portete,Victoria del Portete,case_punctuation_harmonization,"Capitalisation, spacing, punctuation, or diacritics harmonised for the filter display."
+parish,Zhidmad,Zhidmad,unchanged,Source label retained for display.
+parish,Zhudmad,Zhidmad,source_variant_consolidation,Obvious source spelling/orthographic variant consolidated for display; the source value remains preserved.
+parish,Znhidmad,Zhidmad,source_variant_consolidation,Obvious source spelling/orthographic variant consolidated for display; the source value remains preserved.

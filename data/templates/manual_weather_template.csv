@@ -1,0 +1,2 @@
+weather_scenario,date,eto_mm_day,precip_mm_day,source_note
+central,YYYY-MM-DD,3.5,0,user supplied or local station

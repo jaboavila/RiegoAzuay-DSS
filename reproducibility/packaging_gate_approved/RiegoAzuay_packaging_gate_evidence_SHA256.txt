@@ -1,0 +1,3 @@
+0eb05689bd812aa8db0cdf508ae37a2ec4625247bce84fec5e4ad574d0a7b341  RiegoAzuay_packaging_gate_evidence.zip
+Packaging gate status: PASS
+Checks passed: 15 / 15

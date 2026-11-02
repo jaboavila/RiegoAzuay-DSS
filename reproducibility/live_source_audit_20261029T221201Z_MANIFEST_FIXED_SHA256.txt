@@ -1,0 +1,5 @@
+76cbe94263052e2e47f3afbc59e4a1afe3c729c245a9d08720674d2c4a231b47  live_source_audit_20261029T221201Z_MANIFEST_FIXED.zip
+Original bundle SHA-256: 16063d72c41a686f44444d8941da76fa797f02fe6a482d84ccbe07b69f569c5a
+Audit status: PASS (36/36)
+Manifest repair status: PASS (91/91 path-resolved entries verified)
+Created UTC: 2026-10-29 22:18:21 UTC

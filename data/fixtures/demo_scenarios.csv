@@ -1,0 +1,3 @@
+scenario_id,crop_profile_id,soil_profile_id,start_date,reporting_horizon_end_date,next_turn_date,days_after_planting_start,area_ha,initial_depletion_mm,initial_depletion_source,delivery_efficiency,runoff_fraction,flow_lps,flow_evidence,allowed_dates,max_hours_by_date,subsoil_water_mode,subsoil_theta_value,subsoil_water_evidence
+DEMO_POTATO_WEEK,papa_superchola,medium_silt,2026-10-26,2026-11-01,2026-11-04,60,0.25,20,user_estimate,0.75,0,2,verified_volumetric_demo,2026-10-28,2026-10-28=6,field_capacity,,field_capacity_assumption
+DEMO_NO_FLOW,papa_superchola,medium_silt,2026-10-26,2026-11-01,2026-11-04,60,0.25,20,user_estimate,0.75,0,,unknown,2026-10-28,,field_capacity,,field_capacity_assumption

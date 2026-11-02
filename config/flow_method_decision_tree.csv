@@ -1,0 +1,4 @@
+question_id,question_es,yes_action,no_action
+Q1,¿El agua llega por tubería con medidor o totalizador?,installed_meter_direct_or_difference,Q2
+Q2,¿Puede recoger completamente la salida en un recipiente sin riesgo?,volumetric_container,Q3
+Q3,¿El flujo circula por un canal abierto accesible y relativamente uniforme?,float_open_channel_or_structure,technical_measurement_required

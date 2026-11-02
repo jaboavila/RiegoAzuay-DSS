@@ -1,0 +1,26 @@
+parameter,value,unit_or_note
+latitude,-2.7238,WGS84 decimal degrees; demonstration productive point
+longitude,-78.6758,WGS84 decimal degrees; demonstration productive point
+crop_profile_id,papa_superchola,demonstration crop inherited from archived forecast run
+field_capacity_property,wv003,SoilGrids volumetric water content at 33 kPa; wv0033 alias also probed
+wilting_point_property,wv1500,SoilGrids volumetric water content at 1500 kPa
+water_quantiles,Q05;Q50;Q95,SoilGrids predictive quantiles
+texture_properties,sand;silt;clay,mean predictions used only for context
+soilgrids_base_url,https://files.isric.org/soilgrids/latest/data,official WebDAV VRT fallback root
+soilgrids_projection,+proj=igh +lat_0=0 +lon_0=0 +datum=WGS84 +units=m +no_defs,Interrupted Goode Homolosine
+soilgrids_resolution_m,250,nominal cell size
+soilgrids_usage_policy,reference_only_no_E3,not a parcel measurement or local calibration
+soilgrids_minimum_complete_depth_layers,4,0-5;5-15;15-30;30-60 cm for potato root depth
+soil_uncertainty_policy,matched_quantile_sensitivity,"low=FC_Q05-WP_Q05; central=Q50-Q50; high=FC_Q95-WP_Q95; sensitivity only, not a joint probabilistic interval"
+forecast_bundle_pattern,Article4_DailyBalance_ForecastArchive_v2.1.4_run_*_recovered.zip,recover archived meteorology without API calls
+minimum_complete_forecast_members,40,same ensemble gate as archived forecast module
+local_override_file,config/local_soil_override.csv,local verified measurements take precedence when enabled
+reporting_language,es_en,two complete reports
+attribution,SoilGrids 2.0 - ISRIC World Soil Information (CC BY 4.0),required source attribution
+soilgrids_wcs_base_url,https://maps.isric.org/mapserv,official WCS primary endpoint for spatial subsets
+soilgrids_access_order,wcs;webdav,WCS primary and WebDAV VRT fallback
+soilgrids_wcs_version,2.0.1,OGC WCS version
+soilgrids_wcs_half_size_m,375,small projected subset around the point
+soilgrids_wcs_crs_uri,http://www.opengis.net/def/crs/EPSG/0/152160,Interrupted Goode Homolosine URI
+soilgrids_timeout_seconds,180,per-request timeout
+soilgrids_request_pause_seconds,0.20,polite delay between layer requests

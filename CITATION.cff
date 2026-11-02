@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use RiegoAzuay DSS, please cite this software release and the associated Land article."
+title: "RiegoAzuay DSS"
+version: "1.0.0"
+type: software
+license: MIT
+authors:
+  - family-names: "Ávila-Larrea"
+    given-names: "Javier"
+    orcid: "https://orcid.org/0000-0002-4056-4316"
+  - family-names: "Hernández-Sancho"
+    given-names: "Francesc"
+    orcid: "https://orcid.org/0000-0002-9889-4131"
+abstract: >-
+  Bilingual evidence-aware decision-support prototype for parcel- and turn-level
+  irrigation planning in community-managed irrigation systems of Azuay Province,
+  Ecuador. The software combines a daily FAO-56 root-zone balance, turn-feasibility
+  constraints, evidence provenance and readiness, bilingual reporting, and
+  reproducibility controls.
+keywords:
+  - irrigation decision support
+  - community irrigation
+  - FAO-56
+  - irrigation turns
+  - evidence provenance
+  - Ecuadorian Andes

@@ -1,0 +1,13 @@
+﻿source_id,institution,year,title,use,url
+SRC01,Food and Agriculture Organization of the United Nations,1998,Crop Evapotranspiration—Guidelines for Computing Crop Water Requirements (FAO-56),"Daily root-zone balance, crop coefficients, depletion, stress and irrigation scheduling",https://www.fao.org/4/x0490e/x0490e00.htm
+SRC02,Provincial Government of Azuay,2022,Provincial inventory of community irrigation systems,Restricted territorial selector and registered water-intake coordinates,RESTRICTED_INSTITUTIONAL_SOURCE
+SRC03,Open-Meteo,2026,ECMWF Weather Forecast API,Operational deterministic and ensemble forecast gateway,https://open-meteo.com/en/docs/ecmwf-api
+SRC04,European Centre for Medium-Range Weather Forecasts,2026,ECMWF Open Data,Underlying operational forecast source,https://doi.org/10.21957/open-data
+SRC05,Open-Meteo,2026,Historical Weather API,Archived ERA5 retrospective gateway,https://open-meteo.com/en/docs/historical-weather-api
+SRC06,Hersbach et al.,2020,The ERA5 Global Reanalysis,Nature and limits of historical reanalysis evidence,https://doi.org/10.1002/qj.3803
+SRC07,ISRIC / Poggio et al.,2021,SoilGrids 2.0,Global predictive soil-property reference and uncertainty quantiles,https://doi.org/10.5194/soil-7-217-2021
+SRC08,Turek et al.,2023,"Global Mapping of Volumetric Water Retention at 100, 330 and 15,000 cm Suction Using the WoSIS Database",Water-retention layers underlying field-capacity and wilting-point references,https://doi.org/10.1016/j.iswcr.2022.08.001
+SRC09,Ávila-Larrea and Hernández-Sancho,2026,"Econometric Assessment of Territorial Sustainability in Community Irrigation Systems in Azuay Province, Ecuador",Published territorial antecedent and data-governance boundary,https://doi.org/10.3390/w18182227
+SRC10,Ávila-Larrea and Hernández-Sancho,2026,Crop and Water Allocation in Andean Community Irrigation Systems,"Published crop identities, cycle durations and Santul context",https://doi.org/10.3390/app16189195
+SRC11,U.S. Bureau of Reclamation,2001,"Water Measurement Manual, 3rd edition, revised reprint",Flow-measurement method and record guidance,https://www.usbr.gov/tsc/techreferences/mands/wmm/
+SRC12,USDA Natural Resources Conservation Service,2026,Conservation Practice Standard 449—Irrigation Water Management,Irrigation-water management and measurement records,https://www.nrcs.usda.gov/resources/guides-and-instructions/conservation-practice-standards

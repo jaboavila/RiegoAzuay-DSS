@@ -1,0 +1,6 @@
+﻿source_package,source_version,integration_role,sha256
+Article4_CropWater_Engine_v1.0.2.zip,1.0.2,Crop library and earlier crop-water engine,02f484095bde210d5a051d5d9b514557480e2445357b74c6e3e113cda855805c
+Article4_Territorial_Integration_v0.1.3.zip,0.1.3,"Legacy Shiny interface, map, translations and export patterns; monthly engine replaced",b77b7eb9103dcedf476e38adb10f2df540e09be6a83cb10e63a2a7ae353882b8
+Article4_DailyBalance_ForecastArchive_v2.1.4.zip,2.1.4,"Forecast acquisition, completeness checks, archiving and receipts",fab5e052c368fc3fead7a4652b9d74803139499127bcfb3c2a7041d06c099a00
+Article4_SoilEvidence_Integration_v2.2.3.zip,2.2.3,"SoilGrids access, depth integration, quantile profiles and local override",1635ea751ed79ffe92a8201c3f3066d42de43b0f0b77e1be27d5b30d40f5f834
+Article4_RetrospectiveDecisionStability_v2.3.5.zip,2.3.5,"Daily balance, layered turn scheduling, evidence gate and scientific regression tests",53c7007cca0a687e49ca712d4bd3d1143554765f6571b1cb323189ee93e7d7cc

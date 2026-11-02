@@ -1,0 +1,9 @@
+﻿class_id,label_es,label_en,definition_es,definition_en
+LOCAL_VERIFIED,Medición local verificada,Verified local measurement,Observación local con método fecha ubicación y contexto documentados,Local observation with documented method date location and context
+USER_DECLARED,Valor declarado,User-declared value,Valor ingresado por el usuario sin relabelarlo como medición,Value entered by the user without relabelling it as a measurement
+INSTITUTIONAL_REFERENCE,Referencia institucional,Institutional reference,Valor o ubicación conservada desde una fuente institucional,Value or location retained from an institutional source
+PUBLISHED_REFERENCE,Referencia publicada,Published reference,Parámetro procedente de literatura publicada,Parameter derived from published literature
+PUBLIC_MODELLED,Producto público/modelado,Public/modelled product,Estimación espacial o meteorológica pública que no equivale a una medición parcelaria,Public spatial or meteorological estimate that is not a parcel measurement
+SYNTHETIC_TEST,Datos sintéticos de demostración,Synthetic demonstration data,Dato artificial empleado únicamente para demostrar y probar el flujo del software,Artificial data used only to demonstrate and test the software workflow
+MISSING,Faltante,Missing,Información indispensable no disponible,Indispensable information unavailable
+INTERNAL_ENGINEERING_RULE,Regla interna de ingeniería,Internal engineering rule,Clasificación interna que limita la autoridad de la salida; no es una escala validada externamente,Internal classification limiting output authority; not an externally validated scale

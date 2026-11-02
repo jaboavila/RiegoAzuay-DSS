@@ -1,0 +1,30 @@
+parameter,value,unit_or_note
+app_name,RiegoAzuay DSS,research prototype
+version,1.0.0,public citable software release
+release_tag,RiegoAzuay-DSS-v1.0.0,immutable final release tag
+final_target_version,1.0.0,current public release
+r_target_version,4.6.0,final release target
+shiny_target_version,1.14.0,final release target
+timezone,America/Guayaquil,IANA timezone
+restricted_registry_path,data/restricted/systems_registry_159_restricted.csv,excluded from public Git repository
+public_demo_registry_path,data/demo/systems_registry_demo.csv,synthetic demonstration registry
+scientific_demo_system_id,AZU-SR-072,Junta de Riego de Santul at archived demonstration point
+scientific_demo_latitude,-2.7238,WGS84 decimal degrees
+scientific_demo_longitude,-78.6758,WGS84 decimal degrees
+scientific_demo_elevation_m,2642,metres above sea level
+minimum_ensemble_members,40,complete members required for live uncertainty envelope
+forecast_days,15,Open-Meteo request horizon
+forecast_deterministic_endpoint,https://api.open-meteo.com/v1/forecast,Open-Meteo Forecast API
+forecast_deterministic_model,ecmwf_ifs,ECMWF IFS HRES via Open-Meteo
+forecast_ensemble_endpoint,https://ensemble-api.open-meteo.com/v1/ensemble,Open-Meteo Ensemble API
+forecast_ensemble_model,ecmwf_ifs025_ensemble,ECMWF IFS ensemble via Open-Meteo
+soilgrids_webdav_base_url,https://files.isric.org/soilgrids/latest/data,official SoilGrids WebDAV root
+soilgrids_wcs_base_url,https://maps.isric.org/mapserv,official SoilGrids WCS endpoint
+soilgrids_projection,+proj=igh +lat_0=0 +lon_0=0 +datum=WGS84 +units=m +no_defs,Interrupted Goode Homolosine
+soilgrids_access_order,wcs;webdav,WCS primary WebDAV fallback
+soilgrids_wcs_version,2.0.1,OGC WCS version
+soilgrids_wcs_half_size_m,375,projected extraction window
+soilgrids_wcs_crs_uri,http://www.opengis.net/def/crs/EPSG/0/152160,projection URI
+soilgrids_timeout_seconds,180,seconds per request
+soilgrids_request_pause_seconds,0.20,polite pause
+runoff_fraction_default,0,controlled default; user editable in technical view

@@ -1,0 +1,10 @@
+crop,soil,root_depth_m,p,theta_fc,theta_wp,taw_expected_mm,raw_expected_mm
+onion,loamy_sand,0.4,0.3,0.15,0.06,36.0,10.8
+onion,silt,0.4,0.3,0.32,0.15,68.0,20.4
+onion,silty_clay,0.4,0.3,0.35,0.23,48.0,14.4
+tomato,loamy_sand,0.8,0.4,0.15,0.06,72.0,28.8
+tomato,silt,0.8,0.4,0.32,0.15,136.0,54.4
+tomato,silty_clay,0.8,0.4,0.35,0.23,96.0,38.4
+maize,loamy_sand,1.2,0.55,0.15,0.06,108.0,59.4
+maize,silt,1.2,0.55,0.32,0.15,204.0,112.2
+maize,silty_clay,1.2,0.55,0.35,0.23,144.0,79.2

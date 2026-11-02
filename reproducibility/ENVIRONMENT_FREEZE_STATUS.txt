@@ -1,0 +1,7 @@
+RiegoAzuay DSS environment freeze: PASS
+Version: 1.0.0-rc6
+Release tag: RiegoAzuay-DSS-v1.0.0-rc6
+R: R version 4.6.0 (2026-04-24 ucrt)
+Shiny: 1.14.0
+renv.lock SHA-256: f30e5833bb0fab2ba73482f9614f3e367a1633003f1e43e73f5bd9829c07b0a8
+Boundary: a release-candidate freeze is not an immutable public release and has no asserted DOI.

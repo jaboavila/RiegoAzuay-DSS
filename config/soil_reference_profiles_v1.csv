@@ -1,0 +1,4 @@
+soil_profile_id,soil_name_es,soil_name_en,theta_fc,theta_wp,available_water_mm_per_m,evidence_level,source,warning_es
+coarse_loamy_sand,Suelo grueso de referencia (arena franca),Coarse reference soil (loamy sand),0.15,0.06,90,B,FAO-56 Example 36 / Table 19 reference,Referencia exploratoria. Sustituir por análisis de suelo o humedad medida cuando estén disponibles.
+medium_silt,Suelo medio de referencia (limo),Medium reference soil (silt),0.32,0.15,170,B,FAO-56 Example 36 / Table 19 reference,Referencia exploratoria. Sustituir por análisis de suelo o humedad medida cuando estén disponibles.
+fine_silty_clay,Suelo fino de referencia (arcilla limosa),Fine reference soil (silty clay),0.35,0.23,120,B,FAO-56 Example 36 / Table 19 reference,Referencia exploratoria. Sustituir por análisis de suelo o humedad medida cuando estén disponibles.

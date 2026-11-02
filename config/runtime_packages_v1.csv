@@ -1,0 +1,18 @@
+package,role,version_policy
+shiny,runtime/interface,1.14.0 required
+bslib,runtime/interface,record installed version
+leaflet,runtime/maps,record installed version
+leaflet.extras,runtime/maps,record installed version
+DT,runtime/tables,record installed version
+dplyr,runtime/data,record installed version
+readr,runtime/data,record installed version
+ggplot2,runtime/plots,record installed version
+jsonlite,runtime/json,record installed version
+httr2,runtime/http,record installed version
+digest,runtime/hashes,record installed version
+zip,runtime/archives,record installed version
+htmltools,runtime/html,record installed version
+terra,runtime/spatial,record installed version
+xml2,runtime/xml,record installed version
+openxlsx,runtime/user export,record installed version
+renv,release/reproducibility,record installed version

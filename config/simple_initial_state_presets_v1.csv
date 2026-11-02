@@ -1,0 +1,5 @@
+preset_id,label_es,label_en,initial_mode,initial_value,verified,provenance_class,note_es,note_en
+wet,Húmedo o recién regado,Wet or recently irrigated,field_capacity,0,FALSE,USER_DECLARED,"Supuesto declarado de agotamiento cero; no equivale a medición.","User-declared zero-depletion assumption; not a measurement."
+medium,Humedad intermedia,Intermediate moisture,fraction_raw,0.50,FALSE,USER_DECLARED,"Supuesto declarado de 50% de RAW agotada.","User-declared assumption of 50% RAW depletion."
+dry,"Seco, cerca de necesitar riego",Dry and close to needing irrigation,fraction_raw,0.90,FALSE,USER_DECLARED,"Supuesto declarado de 90% de RAW agotada.","User-declared assumption of 90% RAW depletion."
+very_dry,"Muy seco; posible estrés","Very dry; possible stress",fraction_raw,1.10,FALSE,USER_DECLARED,"Supuesto declarado de 110% de RAW agotada.","User-declared assumption of 110% RAW depletion."

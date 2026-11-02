@@ -1,0 +1,6 @@
+﻿public_id,system_name,organization_name,canton,parish,latitude,longitude,altitude_m,coordinate_semantics,territorial_scope,source_status
+DEMO-AZU-001,Demonstration system A,,Cuenca,Demo parish A,-2.9,-79.0,2550,synthetic_demonstration_point,Azuay_public_fixture,synthetic_public_demo
+DEMO-AZU-002,Demonstration system B,,Paute,Demo parish B,-2.78,-78.76,2700,synthetic_demonstration_point,Azuay_public_fixture,synthetic_public_demo
+DEMO-AZU-003,Demonstration system C,,Gualaceo,Demo parish C,-2.89,-78.78,2850,synthetic_demonstration_point,Azuay_public_fixture,synthetic_public_demo
+DEMO-AZU-004,Demonstration system D,,Sígsig,Demo parish D,-3.05,-78.79,3000,synthetic_demonstration_point,Azuay_public_fixture,synthetic_public_demo
+DEMO-AZU-005,Demonstration system E,,Nabón,Demo parish E,-3.33,-79.06,3100,synthetic_demonstration_point,Azuay_public_fixture,synthetic_public_demo

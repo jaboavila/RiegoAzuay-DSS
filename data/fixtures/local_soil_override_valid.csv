@@ -1,0 +1,12 @@
+parameter,value,unit_or_note
+use_local_override,true,
+theta_fc,0.33,m3/m3
+theta_wp,0.14,m3/m3
+measurement_depth_top_cm,0,cm
+measurement_depth_bottom_cm,40,cm
+measurement_method,pressure_plate,verified laboratory method
+measurement_date,2026-10-01,YYYY-MM-DD
+source_description,Demo laboratory report LAB-001,
+verification_status,verified,
+initial_water_status_source,measured_theta,
+notes,Offline test fixture,

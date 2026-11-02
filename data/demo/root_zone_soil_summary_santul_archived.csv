@@ -1,0 +1,4 @@
+﻿"soil_scenario","root_depth_m","theta_fc_equivalent","theta_wp_equivalent","available_water_mm_per_m_equivalent","taw_mm","raw_mm_unadjusted","field_capacity_quantile","wilting_point_quantile","source_type","uncertainty_interpretation"
+"low_storage",0.4,0.164,0.065625,98.375,39.35000000000001,13.772500000000003,"Q05","Q05","SOILGRIDS_250M_REFERENCE","Matched Q05 field-capacity and Q05 wilting-point sensitivity profile; not a joint probabilistic interval"
+"central",0.4,0.355375,0.18925,166.125,66.44999999999999,23.257499999999993,"Q50","Q50","SOILGRIDS_250M_REFERENCE","Matched Q50 field-capacity and Q50 wilting-point sensitivity profile"
+"high_storage",0.4,0.513625,0.30937499999999996,204.25000000000006,81.70000000000002,28.595000000000002,"Q95","Q95","SOILGRIDS_250M_REFERENCE","Matched Q95 field-capacity and Q95 wilting-point sensitivity profile; not a joint probabilistic interval"
